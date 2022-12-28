@@ -1,0 +1,34 @@
+.row{
+    padding: 20px;
+    background-color: rgb(2, 123, 130) ;
+    box-shadow: 0px -2px 15px rgb(12, 166, 186);
+    box-shadow: ejeX ejeY difumasion color;
+}
+
+.parte1{
+    margin-left: 5%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+#TituloProyectos{
+    margin-left: 1%;
+}
+#proyecto{
+    position: absolute;
+        width: 10%;
+        border-radius: 100%;
+        margin-top: -1%;
+        box-shadow: 5px 5px 25px rgb(0, 190, 200);
+    box-shadow: ejeX ejeY difumasion color; 
+        
+}
+#proyecto:hover{
+    position: absolute;
+        width: 10%;
+        border-radius: 100%;
+        margin-top: -1%;
+        box-shadow: 15px 15px 25px #983e23;
+    box-shadow: ejeX ejeY difumasion color; 
+        
+}

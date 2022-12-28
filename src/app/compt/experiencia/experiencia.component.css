@@ -1,0 +1,14 @@
+
+div{
+    background:rgb(221, 89, 60) ;
+    padding-left: 25px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.enlinea{
+    display: inline;
+}
+.row{
+    box-shadow: 0px -2px 15px rgb(7, 139, 157);
+    box-shadow: ejeX ejeY difumasion color;
+}
